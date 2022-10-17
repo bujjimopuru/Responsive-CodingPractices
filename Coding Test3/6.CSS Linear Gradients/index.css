@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.linear-gradient-background-with-more-colors {
+  height: 25vh;
+  width:50vh;
+  background-image: linear-gradient(#aa2bff,#ffa740,#4cc8ef);
+  color:  white;
+}
+.linear-gradient-background-with-more-colors1 {
+  height: 25vh;
+  width:50vh;
+  background-image: linear-gradient(to top,#daa4ff,#ff8c88,#ffc169);
+  color:  white;
+}
+.linear-gradient-background-with-more-colors2 {
+  height: 25vh;
+  width:50vh;
+  background-image: linear-gradient(to bottom,#8a2287,#e94057,#f27121);
+  color:  white;
+}
+.linear-gradient-background-with-more-colors3 {
+  height: 25vh;
+  width:50vh;
+  background-image: linear-gradient(to left,#49b407,#7bbd36,#ffc169);
+  color:  white;
+}
+.linear-gradient-background-with-more-colors4 {
+  height: 25vh;
+  width:50vh;
+  background-image: linear-gradient(to right,#fc3535,#87cdff,#4cc8ef);
+  color:  white;
+}
+.hd{
+    font-size: 25px;
+}
