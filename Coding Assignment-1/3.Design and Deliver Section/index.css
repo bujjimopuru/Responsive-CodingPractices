@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.wcu-card-image {
+    height: 80px;
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #e5eaf4;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.wcu-card-hd {
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 15px;
+    color: #323f4b;
+    text-align: center;
+}
+
+.wcu-card-text {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+}
